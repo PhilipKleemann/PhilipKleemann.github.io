@@ -39,6 +39,7 @@ Mount Rainer National Park attracts around 2 million people every year. They enj
 ---
 
 ## 📚 References
+
 | #  | Citation                                                                                                       |
 |-----|---------------------------------------------------------------------------------------------------------------|
 | 1   | Fiske, R. S., Hopson, C. A., & Waters, A. C. (1963). *Geology of Mount Rainier National Park, Washington.* [USGS Professional Paper](https://doi.org/10.3133/pp444) |
