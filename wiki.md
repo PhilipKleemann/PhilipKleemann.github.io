@@ -6,7 +6,7 @@ Mount Rainer is a large volcano with the highest peak in the Pacific Northwest s
 
 ---
 
-## Physical Geography
+## 🌍 Physical Geography
 Mount Rainer is just 60 miles southeast of Seattle and is a prominent figure in the skyline of Washington residents. It is part of the Cascade Volcanic Arc, which was formed by the subduction of the Juan de Fuca Plate. This caused it to turn into a stratovolcano, which is a volcano that was built up of alternate layers of lava and ash. It has very steep slopes and is covered by large glaciers, creating a beautiful mountain.
 
 ### Glaciers & Ice
@@ -14,13 +14,22 @@ Mount Rainer has the most Glaciers in the contiguous United States of America. I
 
 ---
 
-## Climate and Ecosystems
+## ☁️ Climate and Ecosystems
 Mount Rainer has said to have its own climate compared to the rest of the state, known as the orographic effect. Its climate varies dramatically with elevation. The lower part of the mountain is a lush temperate rainforest, however when you go up in elevation it turns into alpine meadows and ice. Precipitation levels and extremely high on the west side of the mountain due to the rain shadow effect which is when where the moist clouds get trapped on the west side of the mountain leaving the east side dry.
 
 ---
 
 ## Recreation and Mountaineering
-Mount Rainer National Park attracts around 2 million people every year. They enjoy activities such as hiking, skiing, wildflower viewing, camping, mountaineering, and more! Mount Rainer has so much to offer, however requires skills and permits, although it is a beautiful place it can still be very dangerous.
+Mount Rainer National Park attracts around 2 million people every year. They enjoy activities such as:
+- Hiking trails 🥾  
+- Skiing 🎿  
+- Wildflower viewing 🌸  
+- Camping ⛺  
+- Mountaineering 🧗  
+
+> **Caution:**  
+> Despite its beauty, Mount Rainier requires skills and permits for many activities and can be dangerous for the unprepared!
+
 
 ## See also
 - [USGS Geology and History Summary](https://www.usgs.gov/volcanoes/mount-rainier/science/geology-and-history-summary-mount-rainier#overview)
