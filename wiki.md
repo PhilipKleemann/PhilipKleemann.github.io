@@ -4,6 +4,7 @@
 
 Mount Rainer is a large volcano with the highest peak in the Pacific Northwest standing at 4,392 meters. It is the Icon of the State of Washington, known for its beauty, glaciers, and outdoor recreation opportunities such as skiing, hiking, camping, etc. It is the most topographically prominent mountain in the United States.
 
+---
 
 ## Physical Geography
 Mount Rainer is just 60 miles southeast of Seattle and is a prominent figure in the skyline of Washington residents. It is part of the Cascade Volcanic Arc, which was formed by the subduction of the Juan de Fuca Plate. This caused it to turn into a stratovolcano, which is a volcano that was built up of alternate layers of lava and ash. It has very steep slopes and is covered by large glaciers, creating a beautiful mountain.
@@ -11,17 +12,22 @@ Mount Rainer is just 60 miles southeast of Seattle and is a prominent figure in 
 ### Glaciers & Ice
 Mount Rainer has the most Glaciers in the contiguous United States of America. It has a total of 28 different glaciers, the largest being named the Emmons Glacier, covering roughly four square miles! These glaciers are responsible for creating and feeding five major rivers, providing water for residents of the Pacific Northwest.
 
+---
 
 ## Climate and Ecosystems
 Mount Rainer has said to have its own climate compared to the rest of the state, known as the orographic effect. Its climate varies dramatically with elevation. The lower part of the mountain is a lush temperate rainforest, however when you go up in elevation it turns into alpine meadows and ice. Precipitation levels and extremely high on the west side of the mountain due to the rain shadow effect which is when where the moist clouds get trapped on the west side of the mountain leaving the east side dry.
+
+---
 
 ## Recreation and Mountaineering
 Mount Rainer National Park attracts around 2 million people every year. They enjoy activities such as hiking, skiing, wildflower viewing, camping, mountaineering, and more! Mount Rainer has so much to offer, however requires skills and permits, although it is a beautiful place it can still be very dangerous.
 
 ## See also
-- [Resource 1](https://www.usgs.gov/volcanoes/mount-rainier/science/geology-and-history-summary-mount-rainier#overview)
-- [Resource 2](https://www.recreation.gov/gateways/2835)
-- [Resource 3](https://www.nps.gov/index.htm)
+- [USGS Geology and History Summary](https://www.usgs.gov/volcanoes/mount-rainier/science/geology-and-history-summary-mount-rainier#overview)
+- [Recreation.gov Mt Rainer Gateway](https://www.recreation.gov/gateways/2835)
+- [National Park Service](https://www.nps.gov/index.htm)
+
+---
 
 ## References
 1. Fiske, R. S., Hopson, C. A., & Waters, A. C. (1963). Geology of Mount Rainier National Park, Washington. 
