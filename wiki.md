@@ -19,7 +19,7 @@ Mount Rainer has said to have its own climate compared to the rest of the state,
 
 ---
 
-## Recreation and Mountaineering
+## 🏞️ Recreation and Mountaineering
 Mount Rainer National Park attracts around 2 million people every year. They enjoy activities such as:
 - Hiking trails 🥾  
 - Skiing 🎿  
@@ -31,19 +31,18 @@ Mount Rainer National Park attracts around 2 million people every year. They enj
 > Despite its beauty, Mount Rainier requires skills and permits for many activities and can be dangerous for the unprepared!
 
 
-## See also
+## 🔗 See also
 - [USGS Geology and History Summary](https://www.usgs.gov/volcanoes/mount-rainier/science/geology-and-history-summary-mount-rainier#overview)
 - [Recreation.gov Mt Rainer Gateway](https://www.recreation.gov/gateways/2835)
 - [National Park Service](https://www.nps.gov/index.htm)
 
 ---
 
-## References
-1. Fiske, R. S., Hopson, C. A., & Waters, A. C. (1963). Geology of Mount Rainier National Park, Washington. 
-USGS Professional Paper. https://doi.org/10.3133/pp444
-\kerning1\expnd0\expndtw0 \outl0\strokewidth0
+## 📚 References
+| #  | Citation                                                                                                       |
+|-----|---------------------------------------------------------------------------------------------------------------|
+| 1   | Fiske, R. S., Hopson, C. A., & Waters, A. C. (1963). *Geology of Mount Rainier National Park, Washington.* [USGS Professional Paper](https://doi.org/10.3133/pp444) |
+| 2   | Glaciers of Mount Rainier (n.d.). *Google Books*. [Link](https://books.google.com/books?hl=en&lr=&id=xE3nAAAAMAAJ&oi=fnd&pg=PA353&dq=mount+rainier+glaciers&ots=h8p-GWv3Uc&sig=ixJPrzLcKGwJJv14K4aU6nxPkOs#v=onepage&q=mount%20rainier%20glaciers&f=false) |
+| 3   | Visit Rainier. (2025, May 27). *Official site of Mt. Rainier Tourism*. [VisitRainier](https://visitrainier.com/)                                   |
 
-2. Glaciers of Mount Rainier (n.d.). Google Books. https://books.google.com/books?hl=en&lr=&id=xE3nAAAAMAAJ&oi=fnd&pg=PA353&dq=mount+rainier+glaciers&ots=h8p-GWv3Uc&sig=ixJPrzLcKGwJJv14K4aU6nxPkOs#v=onepage&q=mount%20rainier%20glaciers&f=false
-   
-3. Visit Rainier. (2025, May 27). Visit Rainier | Official site of Mt. Rainier Tourism. VisitRainier. https://visitrainier.com/
-}
+*Happy exploring!* 🌲🌄
