@@ -1,6 +1,6 @@
 # Exploring Mount Rainer
-![Mount Rainier](/MountRainer.jpg)
 <img src="/MountRainer.jpg" alt="Mount Rainier" width="400" />
+
 
 Mount Rainer is a large volcano with the highest peak in the Pacific Northwest standing at 4,392 meters. It is the Icon of the State of Washington, known for its beauty, glaciers, and outdoor recreation opportunities such as skiing, hiking, camping, etc. It is the most topographically prominent mountain in the United States.
 
