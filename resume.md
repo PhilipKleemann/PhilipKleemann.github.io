@@ -54,14 +54,6 @@ Data Science and Geographic Information Systems (GIS) student at the University 
 
 ---
 
-## Images
-
-![UW Campus](https://upload.wikimedia.org/wikipedia/commons/0/04/Drumheller_Fountain_and_Mount_Rainier.jpg)
-
-![Soccer Ball](https://upload.wikimedia.org/wikipedia/commons/e/ec/Soccer_ball.svg)
-
----
-
 ## List Example
 
 1. Skills  
