@@ -42,7 +42,7 @@ Data Science and Geographic Information Systems (GIS) student at the University 
 
 ## Block Quote Example
 
-> “Success is the result of preparation, hard work, and learning from failure.” — *Colin Powell*
+> “Life is like a bicycle. To keep your balance you must keep moving.” — *Albert Einstien*
 
 ---
 
